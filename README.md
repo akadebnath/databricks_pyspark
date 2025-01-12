@@ -1,4 +1,4 @@
-<h2 align="center">A beginners guide to get started with PySpark in Batabricks</h2>
+<h2 align="center">A beginners guide to get started with PySpark in Databricks</h2>
 
 <h3>Import minimum required library</h3>
 
